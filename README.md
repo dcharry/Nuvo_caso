@@ -1,4 +1,4 @@
-# Nuvo_caso
+# Nuvu_caso
 
 Algoritmo para encontrar los jugadores sub-valorados en el mercado a partir del dataset de fifa19.
 
